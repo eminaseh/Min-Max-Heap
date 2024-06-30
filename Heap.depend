@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1613168920 source:c:\users\user\desktop\emina sehbajraktarevic projekat 2\heap\main.cpp
+	<iostream>
+	<vector>
+	"heap.h"
+
+1613167155 c:\users\user\desktop\emina sehbajraktarevic projekat 2\heap\heap.h
+	<iostream>
+	<vector>
+	<cmath>
+	"heap.cpp"
+
+1613165123 c:\users\user\desktop\emina sehbajraktarevic projekat 2\heap\heap.cpp
+	"heap.h"
+
+1613165123 source:c:\users\user\desktop\emina sehbajraktarevic projekat 2\heap\heap.cpp
+	"heap.h"
+
+1716253653 source:c:\users\muvin\downloads\emina sehbajraktarevic projekat 2\heap\heap.cpp
+	"heap.h"
+
+1716252426 c:\users\muvin\downloads\emina sehbajraktarevic projekat 2\heap\heap.h
+	<iostream>
+	<vector>
+	<cmath>
+	"heap.cpp"
+
+1716253653 c:\users\muvin\downloads\emina sehbajraktarevic projekat 2\heap\heap.cpp
+	"heap.h"
+
+1716253351 source:c:\users\muvin\downloads\emina sehbajraktarevic projekat 2\heap\main.cpp
+	<iostream>
+	<vector>
+	"heap.h"
+
+1716253653 source:c:\users\muvin\desktop\emina\projekti\min-max heap c++\heap\heap.cpp
+	"heap.h"
+
+1716252426 c:\users\muvin\desktop\emina\projekti\min-max heap c++\heap\heap.h
+	<iostream>
+	<vector>
+	<cmath>
+	"heap.cpp"
+
+1716253653 c:\users\muvin\desktop\emina\projekti\min-max heap c++\heap\heap.cpp
+	"heap.h"
+
+1716253934 source:c:\users\muvin\desktop\emina\projekti\min-max heap c++\heap\main.cpp
+	<iostream>
+	<vector>
+	"heap.h"
+
+1716253934 source:c:\users\muvin\desktop\emina\projekti\heap\main.cpp
+	<iostream>
+	<vector>
+	"heap.h"
+
+1716411143 c:\users\muvin\desktop\emina\projekti\heap\heap.h
+	<iostream>
+	<vector>
+	<cmath>
+	"heap.cpp"
+
+1716417512 c:\users\muvin\desktop\emina\projekti\heap\heap.cpp
+	"heap.h"
+
+1716417512 source:c:\users\muvin\desktop\emina\projekti\heap\heap.cpp
+	"heap.h"
+
